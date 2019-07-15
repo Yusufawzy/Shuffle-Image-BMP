@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1560400057 source:f:\my apps\shuffle image\main.cpp
+	<bits/stdc++.h>
+	"bmplib.cpp"
+
+1523589732 f:\my apps\shuffle image\bmplib.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	"bmplib.h"
+	"unistd.h"
+
+1523589739 f:\my apps\shuffle image\bmplib.h
+
